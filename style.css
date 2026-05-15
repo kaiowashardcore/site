@@ -186,6 +186,27 @@ padding: 20px;
 
   
 }
+.bandeirinhas{
+  width: 105px;
+ height: 75px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: red solid 2px; 
+  
+}
+
+.bandeirinhasmaster{
+ 
+  display: flex;
+  align-items: center;
+  
+  
+  text-align: center;
+  
+  
+}
 
 .catalogo-loja {
         color: rgb(255, 5, 5);
