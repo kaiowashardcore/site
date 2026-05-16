@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: "bignoodletitling";
+    src: url(fonts/BigNoodleTitling.ttf);
+    format: "trutype";
+    font-weight: normal;
+    font-style: normal;
+}
+
+.oswald-uniquifie {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: bold;
+}
+

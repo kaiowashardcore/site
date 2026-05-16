@@ -1,0 +1,48 @@
+
+
+/* Topo/Header */
+
+ nav {
+            background-color: #070000;
+            padding: 10px;
+              margin-bottom: 25px;
+   box-shadow: 2px 2px 15px;
+        }
+        .nav-list {
+            display: flex;
+            list-style: none;
+            margin: 0px;
+            padding: 0;
+            justify-content: space-around;
+        }
+        .nav-list a {
+            color: white;
+            text-decoration: none;
+            font-family: book-antiqua;
+            font-size: 12px;
+            padding: 8px 15px;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            display: inline-block    
+          }
+        .nav-list a:hover {
+            transform: scale(1.2);
+             background-color: #0e0000;
+            border-radius: 4px;
+             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+/* Body */
+
+h1, h2, h3 {
+  font-family: 'aghato';
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+body {
+  font-family: 'Courier New', monospace, bold;
+  background-color:#290000;
+  transition: opacity 1s ease;
+}
+
+

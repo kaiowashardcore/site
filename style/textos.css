@@ -1,0 +1,36 @@
+@keyframes ACAB {
+    from {
+      opacity: 0;
+        translate: 80% 0px;
+    }
+    to {
+        translate: 0px 0px;
+        opacity: 100%;
+    }
+}
+
+.linkskaiowas {
+    color: #ff0000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+.bordatexto {
+    font-family: "bignoodletitling", sans-serif;
+    color: #ff0000;
+    font-size: 30px;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+}
+
+#textogaleria{
+  animation-name: ACAB;
+  animation-duration: 2s; 
+  font-size: 12px;
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
