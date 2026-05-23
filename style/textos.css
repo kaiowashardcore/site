@@ -9,6 +9,18 @@
     }
 }
 
+.textosomos{
+  text-shadow: 2px 2px 5px darkred;
+  color: white;
+  
+}
+
+.textohome{
+  text-shadow: 2px 2px 5px darkred;
+  color: red;
+  
+}
+
 .linkskaiowas {
     color: #ff0000;
     text-decoration: none;

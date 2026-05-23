@@ -38,10 +38,21 @@ h1, h2, h3 {
   letter-spacing: 5px;
   text-transform: uppercase;
 }
+html, body{
+  min-height: 100%;
+  margin: 0;
+}
+
+
 
 body {
   font-family: 'Courier New', monospace, bold;
-  background-color:#290000;
+  background: linear-gradient(
+    180deg,
+    #290000 0%,
+    #140000 45%,
+    #000000 100%
+  );
   transition: opacity 1s ease;
            margin: 0px;
 }
