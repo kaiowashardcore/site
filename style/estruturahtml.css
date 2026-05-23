@@ -43,6 +43,7 @@ body {
   font-family: 'Courier New', monospace, bold;
   background-color:#290000;
   transition: opacity 1s ease;
+           margin: 0px;
 }
 
 
